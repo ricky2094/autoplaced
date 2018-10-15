@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TS_26_alfamart" time="25" tests="4" failures="0" errors="0">
+   <testsuite name="TS_26_alfamart" tests="4" failures="0" errors="0" time="25" timestamp="2018-10-12 16:42:14" hostname="ricky.nugroho - RICKY-E460.mshome.net" id="Test Suites/TS_26_alfamart">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\ricky.nugroho\\Katalon Studio\\blanja mobile\\Reports\\TS_26_alfamart\\20181012_164144"/>
+         <property name="logFiles" value="C:\\Users\\ricky.nugroho\\Katalon Studio\\blanja mobile\\Reports\\TS_26_alfamart\\20181012_164144\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="ricky.nugroho - RICKY-E460.mshome.net"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="5.8.0.1"/>
+         <property name="browser" value="IE 10.0"/>
+         <property name="hostAddress" value="192.168.137.1"/>
+         <property name="sessionId" value="d34689f9cc6b1d3992964679638e55e4"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/TC_01_Member_Login/TC_MOBILE_LOGIN" classname="Test Cases/TC_01_Member_Login/TC_MOBILE_LOGIN" status="PASSED">
+         <system-out><![CDATA[2018-10-12 16:42:14 - [TEST_CASE][PASSED] - Test Cases/TC_01_Member_Login/TC_MOBILE_LOGIN: Test Cases/TC_01_Member_Login/TC_MOBILE_LOGIN
+
+2018-10-12 16:42:15 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: 'https://m.blanja.com/member/login'
+
+2018-10-12 16:42:20 - [MESSAGE][PASSED] - Browser is opened with url: 'https://m.blanja.com/member/login'
+
+2018-10-12 16:42:20 - [TEST_STEP][PASSED] - maximizeWindow: Current window maximized
+
+2018-10-12 16:42:21 - [MESSAGE][PASSED] - Current window maximized
+
+2018-10-12 16:42:21 - [TEST_STEP][PASSED] - setText: Text 'testblj2' is set on object 'Object Repository/mobile_login/input_UsernameEmailNo Telepon_'
+
+2018-10-12 16:42:21 - [MESSAGE][PASSED] - Text 'testblj2' is set on object 'Object Repository/mobile_login/input_UsernameEmailNo Telepon_'
+
+2018-10-12 16:42:21 - [TEST_STEP][PASSED] - setText: Text '123qwe' is set on object 'Object Repository/mobile_login/input_Password_password'
+
+2018-10-12 16:42:22 - [MESSAGE][PASSED] - Text '123qwe' is set on object 'Object Repository/mobile_login/input_Password_password'
+
+2018-10-12 16:42:22 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-10-12 16:42:23 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-10-12 16:42:23 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/mobile_login/button masuk' is clicked on
+
+2018-10-12 16:42:24 - [MESSAGE][PASSED] - Object: 'Object Repository/mobile_login/button masuk' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TC_02_PDP/TC_PDP_digital" classname="Test Cases/TC_02_PDP/TC_PDP_digital" status="PASSED">
+         <system-out><![CDATA[2018-10-12 16:42:24 - [TEST_CASE][PASSED] - Test Cases/TC_02_PDP/TC_PDP_digital: Test Cases/TC_02_PDP/TC_PDP_digital
+
+2018-10-12 16:42:24 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://m.blanja.com/item/jual-beli-voucher-blanja-potongan-10-000-17769152' successfully
+
+2018-10-12 16:42:29 - [MESSAGE][PASSED] - Navigate to 'https://m.blanja.com/item/jual-beli-voucher-blanja-potongan-10-000-17769152' successfully
+
+2018-10-12 16:42:29 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-10-12 16:42:31 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-10-12 16:42:31 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/PDP/close_dialog_gojek' is clicked on
+
+2018-10-12 16:42:31 - [MESSAGE][PASSED] - Object: 'Object Repository/PDP/close_dialog_gojek' is clicked on
+
+2018-10-12 16:42:31 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/PDP/Btn_buy' is clicked on
+
+2018-10-12 16:42:33 - [MESSAGE][PASSED] - Object: 'Object Repository/PDP/Btn_buy' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TC_03_Trade/Choose Payment Method/TC_26_Digital_alfamart" classname="Test Cases/TC_03_Trade/Choose Payment Method/TC_26_Digital_alfamart" status="PASSED">
+         <system-out><![CDATA[2018-10-12 16:42:33 - [TEST_CASE][PASSED] - Test Cases/TC_03_Trade/Choose Payment Method/TC_26_Digital_alfamart: Test Cases/TC_03_Trade/Choose Payment Method/TC_26_Digital_alfamart
+
+2018-10-12 16:42:33 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Payment method/bayar_di_outlet' is clicked on
+
+2018-10-12 16:42:33 - [MESSAGE][PASSED] - Object: 'Object Repository/Payment method/bayar_di_outlet' is clicked on
+
+2018-10-12 16:42:33 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Payment method/alfamart' is clicked on
+
+2018-10-12 16:42:33 - [MESSAGE][PASSED] - Object: 'Object Repository/Payment method/alfamart' is clicked on
+
+2018-10-12 16:42:33 - [TEST_STEP][PASSED] - blj.common.report.Autoplaced.AppendToBlanjaAutoplacedReport: blj.common.report.Autoplaced.AppendToBlanjaAutoplacedReport is PASSED
+
+2018-10-12 16:42:33 - [MESSAGE][PASSED] - blj.common.report.Autoplaced.AppendToBlanjaAutoplacedReport is PASSED]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TC_03_Trade/TC_Click_Button_Order_and_get_order_number" classname="Test Cases/TC_03_Trade/TC_Click_Button_Order_and_get_order_number" status="PASSED">
+         <system-out><![CDATA[2018-10-12 16:42:33 - [TEST_CASE][PASSED] - Test Cases/TC_03_Trade/TC_Click_Button_Order_and_get_order_number: Test Cases/TC_03_Trade/TC_Click_Button_Order_and_get_order_number
+
+2018-10-12 16:42:34 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Payment method/button/btn_order' is clicked on
+
+2018-10-12 16:42:34 - [MESSAGE][PASSED] - Object: 'Object Repository/Payment method/button/btn_order' is clicked on
+
+2018-10-12 16:42:34 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://m.blanja.com' successfully
+
+2018-10-12 16:42:36 - [MESSAGE][PASSED] - Navigate to 'http://m.blanja.com' successfully
+
+2018-10-12 16:42:36 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/user button' is clicked on
+
+2018-10-12 16:42:36 - [MESSAGE][PASSED] - Object: 'Object Repository/user button' is clicked on
+
+2018-10-12 16:42:36 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/btn_blanjaan_saya' is clicked on
+
+2018-10-12 16:42:37 - [MESSAGE][PASSED] - Object: 'Object Repository/btn_blanjaan_saya' is clicked on
+
+2018-10-12 16:42:37 - [TEST_STEP][PASSED] - Statement - orderNumber = "- " + com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(No_order)): Text of object 'Object Repository/No_order' is: 'No. Order : 418683242347684019
+12 Okt 2018 16:42
+Voucher Blanja Potongan 10.000
+  Rp 100.000 x 1'
+
+2018-10-12 16:42:38 - [MESSAGE][PASSED] - Text of object 'Object Repository/No_order' is: 'No. Order : 418683242347684019
+12 Okt 2018 16:42
+Voucher Blanja Potongan 10.000
+  Rp 100.000 x 1'
+
+2018-10-12 16:42:38 - [TEST_STEP][PASSED] - blj.common.report.Autoplaced.AppendToBlanjaAutoplacedReport: blj.common.report.Autoplaced.AppendToBlanjaAutoplacedReport is PASSED
+
+2018-10-12 16:42:38 - [MESSAGE][PASSED] - blj.common.report.Autoplaced.AppendToBlanjaAutoplacedReport is PASSED]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-10-12 16:42:14 - [TEST_SUITE][PASSED] - TS_26_alfamart: Test Cases/TC_03_Trade/TC_Click_Button_Order_and_get_order_number]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

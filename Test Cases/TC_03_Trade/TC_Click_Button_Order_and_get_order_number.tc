@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Click_Button_Order_and_get_order_number</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c3b4dd8f-a5bb-47fe-8f19-81e982804782</testCaseGuid>
+   <variable>
+      <defaultValue>'https://m.blanja.com/mobile/trades/index'</defaultValue>
+      <description></description>
+      <id>46f5135c-a65a-4aaf-a85f-67aba1ee2f0d</id>
+      <masked>false</masked>
+      <name>OrderListURL</name>
+   </variable>
+</TestCaseEntity>

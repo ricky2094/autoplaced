@@ -1,0 +1,27 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+tes,IE 10.0,,2018-10-11 10:19:16,2018-10-11 10:19:33,17.519s,PASSED
+,,,,,,
+Test Cases/TC_01_Member_Login/TC_MOBILE_LOGIN,IE 10.0,,2018-10-11 10:19:16,2018-10-11 10:19:25,8.576s,PASSED
+openBrowser,IE 10.0,,2018-10-11 10:19:17,2018-10-11 10:19:22,5.072s,PASSED
+maximizeWindow,IE 10.0,,2018-10-11 10:19:22,2018-10-11 10:19:23,1.203s,PASSED
+setText,IE 10.0,,2018-10-11 10:19:23,2018-10-11 10:19:23,0.317s,PASSED
+setText,IE 10.0,,2018-10-11 10:19:23,2018-10-11 10:19:24,0.399s,PASSED
+click,IE 10.0,,2018-10-11 10:19:24,2018-10-11 10:19:25,1.202s,PASSED
+,,,,,,
+Test Cases/TC_02_PDP/TC_PDP_digital,IE 10.0,,2018-10-11 10:19:25,2018-10-11 10:19:30,5.110s,PASSED
+navigateToUrl,IE 10.0,,2018-10-11 10:19:25,2018-10-11 10:19:29,3.803s,PASSED
+waitForElementClickable,IE 10.0,,2018-10-11 10:19:29,2018-10-11 10:19:29,0.193s,PASSED
+click,IE 10.0,,2018-10-11 10:19:29,2018-10-11 10:19:30,0.219s,PASSED
+click,IE 10.0,,2018-10-11 10:19:30,2018-10-11 10:19:30,0.483s,PASSED
+,,,,,,
+Test Cases/TC_03_Trade/Choose Payment Method/TC_01_Digital_Mandiri_Debit_Online,IE 10.0,,2018-10-11 10:19:30,2018-10-11 10:19:32,1.739s,PASSED
+click,IE 10.0,,2018-10-11 10:19:30,2018-10-11 10:19:31,1.027s,PASSED
+click,IE 10.0,,2018-10-11 10:19:31,2018-10-11 10:19:32,0.270s,PASSED
+"Statement - paymentMethod = ""Mandiri "" + com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(Payment method/Label_Mandiri_debit_online))",IE 10.0,,2018-10-11 10:19:32,2018-10-11 10:19:32,0.073s,PASSED
+blj.common.report.Autoplaced.AppendToBlanjaAutoplacedReport,IE 10.0,,2018-10-11 10:19:32,2018-10-11 10:19:32,0.039s,PASSED
+,,,,,,
+Test Cases/TC_03_Trade/TC_Click_Button_Order_and_get_order_number,IE 10.0,,2018-10-11 10:19:32,2018-10-11 10:19:33,1.641s,PASSED
+click,IE 10.0,,2018-10-11 10:19:32,2018-10-11 10:19:33,0.287s,PASSED
+navigateToUrl,IE 10.0,,2018-10-11 10:19:33,2018-10-11 10:19:33,0.605s,PASSED
+"Statement - orderNumber = ""- "" + com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(No_order))",IE 10.0,,2018-10-11 10:19:33,2018-10-11 10:19:33,0.071s,PASSED
+blj.common.report.Autoplaced.AppendToBlanjaAutoplacedReport,IE 10.0,,2018-10-11 10:19:33,2018-10-11 10:19:33,0.014s,PASSED

@@ -1,0 +1,28 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TS_22_Debit_online,IE 10.0,,2018-10-11 15:29:16,2018-10-11 15:29:42,26.073s,PASSED
+,,,,,,
+Test Cases/TC_01_Member_Login/TC_MOBILE_LOGIN,IE 10.0,,2018-10-11 15:29:16,2018-10-11 15:29:27,10.801s,PASSED
+openBrowser,IE 10.0,,2018-10-11 15:29:17,2018-10-11 15:29:24,6.899s,PASSED
+maximizeWindow,IE 10.0,,2018-10-11 15:29:24,2018-10-11 15:29:25,1.157s,PASSED
+setText,IE 10.0,,2018-10-11 15:29:25,2018-10-11 15:29:25,0.226s,PASSED
+setText,IE 10.0,,2018-10-11 15:29:25,2018-10-11 15:29:25,0.140s,PASSED
+delay,IE 10.0,,2018-10-11 15:29:25,2018-10-11 15:29:26,1.026s,PASSED
+click,IE 10.0,,2018-10-11 15:29:26,2018-10-11 15:29:27,1.006s,PASSED
+,,,,,,
+Test Cases/TC_02_PDP/TC_PDP_digital,IE 10.0,,2018-10-11 15:29:27,2018-10-11 15:29:35,7.808s,PASSED
+navigateToUrl,IE 10.0,,2018-10-11 15:29:28,2018-10-11 15:29:31,3.444s,PASSED
+delay,IE 10.0,,2018-10-11 15:29:31,2018-10-11 15:29:33,2.003s,PASSED
+click,IE 10.0,,2018-10-11 15:29:33,2018-10-11 15:29:33,0.109s,PASSED
+click,IE 10.0,,2018-10-11 15:29:33,2018-10-11 15:29:35,1.782s,PASSED
+,,,,,,
+Test Cases/TC_03_Trade/Choose Payment Method/TC_22_Digital_Debit_online,IE 10.0,,2018-10-11 15:29:35,2018-10-11 15:29:35,0.434s,PASSED
+click,IE 10.0,,2018-10-11 15:29:35,2018-10-11 15:29:35,0.199s,PASSED
+blj.common.report.Autoplaced.AppendToBlanjaAutoplacedReport,IE 10.0,,2018-10-11 15:29:35,2018-10-11 15:29:35,0.042s,PASSED
+,,,,,,
+Test Cases/TC_03_Trade/TC_Click_Button_Order_and_get_order_number,IE 10.0,,2018-10-11 15:29:35,2018-10-11 15:29:41,5.846s,PASSED
+click,IE 10.0,,2018-10-11 15:29:36,2018-10-11 15:29:36,0.120s,PASSED
+navigateToUrl,IE 10.0,,2018-10-11 15:29:36,2018-10-11 15:29:38,2.673s,PASSED
+click,IE 10.0,,2018-10-11 15:29:38,2018-10-11 15:29:39,0.196s,PASSED
+click,IE 10.0,,2018-10-11 15:29:39,2018-10-11 15:29:40,1.430s,PASSED
+"Statement - orderNumber = ""- "" + com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(No_order))",IE 10.0,,2018-10-11 15:29:40,2018-10-11 15:29:41,1.134s,PASSED
+blj.common.report.Autoplaced.AppendToBlanjaAutoplacedReport,IE 10.0,,2018-10-11 15:29:41,2018-10-11 15:29:41,0.010s,PASSED

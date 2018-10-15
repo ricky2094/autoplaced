@@ -1,0 +1,29 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TS_28_posindonesia,IE 10.0,,2018-10-12 16:43:07,2018-10-12 16:43:33,26.408s,PASSED
+,,,,,,
+Test Cases/TC_01_Member_Login/TC_MOBILE_LOGIN,IE 10.0,,2018-10-12 16:43:07,2018-10-12 16:43:21,13.318s,PASSED
+openBrowser,IE 10.0,,2018-10-12 16:43:08,2018-10-12 16:43:13,5.047s,PASSED
+maximizeWindow,IE 10.0,,2018-10-12 16:43:13,2018-10-12 16:43:14,1.171s,PASSED
+setText,IE 10.0,,2018-10-12 16:43:14,2018-10-12 16:43:14,0.192s,PASSED
+setText,IE 10.0,,2018-10-12 16:43:14,2018-10-12 16:43:14,0.148s,PASSED
+delay,IE 10.0,,2018-10-12 16:43:14,2018-10-12 16:43:15,1.023s,PASSED
+click,IE 10.0,,2018-10-12 16:43:15,2018-10-12 16:43:21,5.407s,PASSED
+,,,,,,
+Test Cases/TC_02_PDP/TC_PDP_digital,IE 10.0,,2018-10-12 16:43:21,2018-10-12 16:43:27,6.090s,PASSED
+navigateToUrl,IE 10.0,,2018-10-12 16:43:21,2018-10-12 16:43:23,1.832s,PASSED
+delay,IE 10.0,,2018-10-12 16:43:23,2018-10-12 16:43:25,2.004s,PASSED
+click,IE 10.0,,2018-10-12 16:43:25,2018-10-12 16:43:25,0.117s,PASSED
+click,IE 10.0,,2018-10-12 16:43:25,2018-10-12 16:43:27,1.790s,PASSED
+,,,,,,
+Test Cases/TC_03_Trade/Choose Payment Method/TC_28_Digital_posindonesia,IE 10.0,,2018-10-12 16:43:27,2018-10-12 16:43:27,0.628s,PASSED
+click,IE 10.0,,2018-10-12 16:43:27,2018-10-12 16:43:27,0.098s,PASSED
+click,IE 10.0,,2018-10-12 16:43:27,2018-10-12 16:43:27,0.280s,PASSED
+blj.common.report.Autoplaced.AppendToBlanjaAutoplacedReport,IE 10.0,,2018-10-12 16:43:27,2018-10-12 16:43:27,0.042s,PASSED
+,,,,,,
+Test Cases/TC_03_Trade/TC_Click_Button_Order_and_get_order_number,IE 10.0,,2018-10-12 16:43:27,2018-10-12 16:43:33,5.217s,PASSED
+click,IE 10.0,,2018-10-12 16:43:28,2018-10-12 16:43:28,0.130s,PASSED
+navigateToUrl,IE 10.0,,2018-10-12 16:43:28,2018-10-12 16:43:31,2.967s,PASSED
+click,IE 10.0,,2018-10-12 16:43:31,2018-10-12 16:43:31,0.116s,PASSED
+click,IE 10.0,,2018-10-12 16:43:31,2018-10-12 16:43:32,0.533s,PASSED
+"Statement - orderNumber = ""- "" + com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(No_order))",IE 10.0,,2018-10-12 16:43:32,2018-10-12 16:43:33,1.118s,PASSED
+blj.common.report.Autoplaced.AppendToBlanjaAutoplacedReport,IE 10.0,,2018-10-12 16:43:33,2018-10-12 16:43:33,0.010s,PASSED

@@ -1,0 +1,12 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TS_02_Mandiri_kartu_kredit_cicilan,Firefox 60.0,,2018-10-12 15:47:55,2018-10-12 15:48:15,19.449s,INCOMPLETE
+,,,,,,
+Test Cases/TC_01_Member_Login/TC_MOBILE_LOGIN,Firefox 60.0,,2018-10-12 15:47:56,2018-10-12 15:48:13,16.558s,FAILED
+openBrowser,Firefox 60.0,,2018-10-12 15:47:58,2018-10-12 15:48:10,12.263s,PASSED
+maximizeWindow,Firefox 60.0,,2018-10-12 15:48:10,2018-10-12 15:48:13,2.974s,FAILED
+,,,,,,
+Test Cases/TC_02_PDP/TC_PDP_Digital_5_barang,Firefox 60.0,,2018-10-12 15:48:13,2018-10-12 15:48:14,0.926s,FAILED
+navigateToUrl,Firefox 60.0,,2018-10-12 15:48:14,2018-10-12 15:48:14,0.110s,FAILED
+,,,,,,
+Test Cases/TC_03_Trade/Choose Payment Method/TC_02_Digital_Mandiri_Kartu_kredit_cicilan,Firefox 60.0,,2018-10-12 15:48:14,2018-10-12 15:48:15,0.845s,FAILED
+click,Firefox 60.0,,2018-10-12 15:48:15,2018-10-12 15:48:15,0.123s,FAILED

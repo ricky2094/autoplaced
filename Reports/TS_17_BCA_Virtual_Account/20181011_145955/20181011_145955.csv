@@ -1,0 +1,29 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TS_17_BCA_Virtual_Account,IE 10.0,,2018-10-11 14:59:57,2018-10-11 15:00:22,24.578s,PASSED
+,,,,,,
+Test Cases/TC_01_Member_Login/TC_MOBILE_LOGIN,IE 10.0,,2018-10-11 14:59:58,2018-10-11 15:00:07,9.508s,PASSED
+openBrowser,IE 10.0,,2018-10-11 14:59:58,2018-10-11 15:00:03,5.328s,PASSED
+maximizeWindow,IE 10.0,,2018-10-11 15:00:03,2018-10-11 15:00:05,1.155s,PASSED
+setText,IE 10.0,,2018-10-11 15:00:05,2018-10-11 15:00:05,0.259s,PASSED
+setText,IE 10.0,,2018-10-11 15:00:05,2018-10-11 15:00:05,0.193s,PASSED
+delay,IE 10.0,,2018-10-11 15:00:05,2018-10-11 15:00:06,1.032s,PASSED
+click,IE 10.0,,2018-10-11 15:00:06,2018-10-11 15:00:07,1.075s,PASSED
+,,,,,,
+Test Cases/TC_02_PDP/TC_PDP_digital,IE 10.0,,2018-10-11 15:00:07,2018-10-11 15:00:15,7.743s,PASSED
+navigateToUrl,IE 10.0,,2018-10-11 15:00:08,2018-10-11 15:00:11,3.605s,PASSED
+delay,IE 10.0,,2018-10-11 15:00:11,2018-10-11 15:00:13,2.004s,PASSED
+click,IE 10.0,,2018-10-11 15:00:13,2018-10-11 15:00:13,0.171s,PASSED
+click,IE 10.0,,2018-10-11 15:00:13,2018-10-11 15:00:15,1.476s,PASSED
+,,,,,,
+Test Cases/TC_03_Trade/Choose Payment Method/TC_17_Digital_BCA_Virtual_Account,IE 10.0,,2018-10-11 15:00:15,2018-10-11 15:00:16,0.688s,PASSED
+click,IE 10.0,,2018-10-11 15:00:15,2018-10-11 15:00:15,0.149s,PASSED
+click,IE 10.0,,2018-10-11 15:00:15,2018-10-11 15:00:16,0.287s,PASSED
+blj.common.report.Autoplaced.AppendToBlanjaAutoplacedReport,IE 10.0,,2018-10-11 15:00:16,2018-10-11 15:00:16,0.043s,PASSED
+,,,,,,
+Test Cases/TC_03_Trade/TC_Click_Button_Order_and_get_order_number,IE 10.0,,2018-10-11 15:00:16,2018-10-11 15:00:21,5.237s,PASSED
+click,IE 10.0,,2018-10-11 15:00:16,2018-10-11 15:00:16,0.140s,PASSED
+navigateToUrl,IE 10.0,,2018-10-11 15:00:16,2018-10-11 15:00:19,2.719s,PASSED
+click,IE 10.0,,2018-10-11 15:00:19,2018-10-11 15:00:19,0.142s,PASSED
+click,IE 10.0,,2018-10-11 15:00:19,2018-10-11 15:00:20,0.669s,PASSED
+"Statement - orderNumber = ""- "" + com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(No_order))",IE 10.0,,2018-10-11 15:00:20,2018-10-11 15:00:21,1.135s,PASSED
+blj.common.report.Autoplaced.AppendToBlanjaAutoplacedReport,IE 10.0,,2018-10-11 15:00:21,2018-10-11 15:00:21,0.010s,PASSED

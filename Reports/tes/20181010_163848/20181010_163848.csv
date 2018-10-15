@@ -1,0 +1,14 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+tes,Safari 4,,2018-10-10 16:38:50,2018-10-10 16:39:04,13.469s,FAILED
+,,,,,,
+Test Cases/TC_MOBILE_LOGIN,Safari 4,,2018-10-10 16:38:50,2018-10-10 16:38:58,7.754s,PASSED
+openBrowser,Safari 4,,2018-10-10 16:38:51,2018-10-10 16:38:57,5.758s,PASSED
+setText,Safari 4,,2018-10-10 16:38:57,2018-10-10 16:38:57,0.450s,PASSED
+setText,Safari 4,,2018-10-10 16:38:57,2018-10-10 16:38:57,0.189s,PASSED
+click,Safari 4,,2018-10-10 16:38:57,2018-10-10 16:38:58,1.023s,PASSED
+,,,,,,
+Test Cases/TC_PDP_digital,Safari 4,,2018-10-10 16:38:58,2018-10-10 16:39:03,4.572s,FAILED
+executeJavaScript,Safari 4,,2018-10-10 16:38:59,2018-10-10 16:38:59,0.145s,PASSED
+navigateToUrl,Safari 4,,2018-10-10 16:38:59,2018-10-10 16:39:02,3.263s,PASSED
+waitForElementClickable,Safari 4,,2018-10-10 16:39:02,2018-10-10 16:39:02,0.163s,PASSED
+click,Safari 4,,2018-10-10 16:39:02,2018-10-10 16:39:03,0.661s,FAILED

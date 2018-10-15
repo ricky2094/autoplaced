@@ -1,0 +1,25 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+tes,IE 10.0,,2018-10-11 10:12:40,2018-10-11 10:13:35,55.236s,FAILED
+,,,,,,
+Test Cases/TC_01_Member_Login/TC_MOBILE_LOGIN,IE 10.0,,2018-10-11 10:12:40,2018-10-11 10:12:52,12.420s,PASSED
+openBrowser,IE 10.0,,2018-10-11 10:12:40,2018-10-11 10:12:47,6.645s,PASSED
+setText,IE 10.0,,2018-10-11 10:12:47,2018-10-11 10:12:47,0.340s,PASSED
+setText,IE 10.0,,2018-10-11 10:12:47,2018-10-11 10:12:48,0.224s,PASSED
+click,IE 10.0,,2018-10-11 10:12:48,2018-10-11 10:12:52,4.859s,PASSED
+,,,,,,
+Test Cases/TC_02_PDP/TC_PDP_digital,IE 10.0,,2018-10-11 10:12:52,2018-10-11 10:13:00,7.386s,PASSED
+navigateToUrl,IE 10.0,,2018-10-11 10:12:53,2018-10-11 10:12:56,3.135s,PASSED
+waitForElementClickable,IE 10.0,,2018-10-11 10:12:56,2018-10-11 10:12:56,0.127s,PASSED
+click,IE 10.0,,2018-10-11 10:12:56,2018-10-11 10:12:56,0.099s,PASSED
+click,IE 10.0,,2018-10-11 10:12:56,2018-10-11 10:13:00,3.565s,PASSED
+,,,,,,
+Test Cases/TC_03_Trade/Choose Payment Method/TC_01_Digital_Mandiri_Debit_Online,IE 10.0,,2018-10-11 10:13:00,2018-10-11 10:13:01,1.329s,PASSED
+click,IE 10.0,,2018-10-11 10:13:00,2018-10-11 10:13:00,0.193s,PASSED
+click,IE 10.0,,2018-10-11 10:13:00,2018-10-11 10:13:01,0.691s,PASSED
+"Statement - paymentMethod = ""Mandiri"" + com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(Payment method/Label_Mandiri_debit_online))",IE 10.0,,2018-10-11 10:13:01,2018-10-11 10:13:01,0.074s,PASSED
+blj.common.report.Autoplaced.AppendToBlanjaAutoplacedReport,IE 10.0,,2018-10-11 10:13:01,2018-10-11 10:13:01,0.058s,PASSED
+,,,,,,
+Test Cases/TC_03_Trade/TC_Click_Button_Order_and_get_order_number,IE 10.0,,2018-10-11 10:13:01,2018-10-11 10:13:35,33.573s,FAILED
+click,IE 10.0,,2018-10-11 10:13:02,2018-10-11 10:13:02,0.182s,PASSED
+navigateToUrl,IE 10.0,,2018-10-11 10:13:02,2018-10-11 10:13:02,0.621s,PASSED
+"Statement - orderNumber = ""-"" + com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(Payment method/Label_Mandiri_debit_online))",IE 10.0,,2018-10-11 10:13:02,2018-10-11 10:13:35,32.402s,FAILED

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tambah_quantity</name>
+   <tag></tag>
+   <elementGuidId>64d48103-95b2-46d1-899c-91c32aa6fdc3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/section/section/section/section[2]/div[4]/div[2]/div[3]/div[2]/a[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/section/section/section/section[2]/div[4]/div[2]/div[3]/div[2]/a[2]</value>
+   </webElementProperties>
+</WebElementEntity>

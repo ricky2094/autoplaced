@@ -1,0 +1,8 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+tes,,,2018-10-10 16:54:40,2018-10-10 16:54:43,3.079s,FAILED
+,,,,,,
+Test Cases/TC_MOBILE_LOGIN,,,2018-10-10 16:54:40,2018-10-10 16:54:42,2.282s,FAILED
+openBrowser,,,2018-10-10 16:54:40,2018-10-10 16:54:42,1.918s,FAILED
+,,,,,,
+Test Cases/TC_PDP_digital,,,2018-10-10 16:54:42,2018-10-10 16:54:43,0.376s,FAILED
+navigateToUrl,,,2018-10-10 16:54:43,2018-10-10 16:54:43,0.056s,FAILED

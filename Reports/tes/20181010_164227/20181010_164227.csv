@@ -1,0 +1,9 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+tes,Firefox 60.0,,2018-10-10 16:42:29,2018-10-10 16:42:38,8.760s,FAILED
+,,,,,,
+Test Cases/TC_MOBILE_LOGIN,Firefox 60.0,,2018-10-10 16:42:30,2018-10-10 16:42:38,7.887s,FAILED
+openBrowser,Firefox 60.0,,2018-10-10 16:42:31,2018-10-10 16:42:37,6.167s,PASSED
+setText,Firefox 60.0,,2018-10-10 16:42:37,2018-10-10 16:42:38,0.824s,FAILED
+,,,,,,
+Test Cases/TC_PDP_digital,Firefox 60.0,,2018-10-10 16:42:38,2018-10-10 16:42:38,0.290s,FAILED
+executeJavaScript,Firefox 60.0,,2018-10-10 16:42:38,2018-10-10 16:42:38,0.047s,FAILED

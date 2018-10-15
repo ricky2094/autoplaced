@@ -1,0 +1,164 @@
+
+Thu Oct 11 11:22:07 ICT 2018 - Mandiri E-cash - - No. Order : 418680322072484019
+11 Okt 2018 11:22
+Voucher Blanja Potongan 10.000
+  Rp 100.000 x 1
+Thu Oct 11 11:23:09 ICT 2018 - Mandiri Kartu Kredit Cicilan - - No. Order : 418680322072484019
+11 Okt 2018 11:22
+Voucher Blanja Potongan 10.000
+  Rp 100.000 x 1
+Thu Oct 11 11:25:03 ICT 2018 - Mandiri Kartu Kredit - - No. Order : 418680325045384019
+11 Okt 2018 11:25
+Voucher Blanja Potongan 10.000
+  Rp 100.000 x 1
+Thu Oct 11 11:34:27 ICT 2018 - BNI Virtual Account - - No. Order : 418680334272284019
+11 Okt 2018 11:34
+Voucher Blanja Potongan 10.000
+  Rp 100.000 x 1
+Thu Oct 11 13:13:34 ICT 2018 - BNI Virtual Account - - No. Order : 418680513351084019
+11 Okt 2018 13:13
+Voucher Blanja Potongan 10.000
+  Rp 100.000 x 1
+Thu Oct 11 13:13:59 ICT 2018 - BNI Virtual Account - - No. Order : 418680513593684019
+11 Okt 2018 13:13
+Voucher Blanja Potongan 10.000
+  Rp 100.000 x 1
+Thu Oct 11 13:14:28 ICT 2018 - BNI Virtual Account - - No. Order : 418680514284584019
+11 Okt 2018 13:14
+Voucher Blanja Potongan 10.000
+  Rp 100.000 x 1
+Thu Oct 11 13:15:39 ICT 2018 - BNI Debit Online - - No. Order : 418680515409184019
+11 Okt 2018 13:15
+Voucher Blanja Potongan 10.000
+  Rp 100.000 x 1
+Thu Oct 11 13:16:03 ICT 2018 - BNI Kartu Kredit - - No. Order : 418680515409184019
+11 Okt 2018 13:15
+Voucher Blanja Potongan 10.000
+  Rp 100.000 x 1
+Thu Oct 11 13:19:33 ICT 2018 - BNI Debit Online - - No. Order : 418680519343284019
+11 Okt 2018 13:19
+Voucher Blanja Potongan 10.000
+  Rp 100.000 x 1
+Thu Oct 11 13:20:33 ICT 2018 - BNI Kartu Kredit - - No. Order : 418680520341484019
+11 Okt 2018 13:20
+Voucher Blanja Potongan 10.000
+  Rp 100.000 x 1
+Thu Oct 11 13:21:12 ICT 2018 - BNI SMS Payment - - No. Order : 418680520341484019
+11 Okt 2018 13:20
+Voucher Blanja Potongan 10.000
+  Rp 100.000 x 1
+Thu Oct 11 13:37:07 ICT 2018 - BRI Bank Transfer - - No. Order : 418680537084584019
+11 Okt 2018 13:37
+Voucher Blanja Potongan 10.000
+  Rp 100.000 x 1
+Thu Oct 11 13:41:36 ICT 2018 - BRI E-Pay - - No. Order : 418680541372884019
+11 Okt 2018 13:41
+Voucher Blanja Potongan 10.000
+  Rp 100.000 x 1
+Thu Oct 11 13:43:05 ICT 2018 - BRI Kartu Kredit - - No. Order : 418680543061784019
+11 Okt 2018 13:43
+Voucher Blanja Potongan 10.000
+  Rp 100.000 x 1
+Thu Oct 11 13:45:36 ICT 2018 - BRI Kartu Kredit Cicilan - - No. Order : 418680543061784019
+11 Okt 2018 13:43
+Voucher Blanja Potongan 10.000
+  Rp 100.000 x 1
+Thu Oct 11 14:09:41 ICT 2018 - BTN Bank Transfer - - No. Order : 418680609426284019
+11 Okt 2018 14:09
+Voucher Blanja Potongan 10.000
+  Rp 100.000 x 1
+Thu Oct 11 14:10:38 ICT 2018 - BTN Debit Online - - No. Order : 418680610393884019
+11 Okt 2018 14:10
+Voucher Blanja Potongan 10.000
+  Rp 100.000 x 1
+Thu Oct 11 14:12:10 ICT 2018 - BTN Kartu Kredit - - No. Order : 418680612112784019
+11 Okt 2018 14:12
+Voucher Blanja Potongan 10.000
+  Rp 100.000 x 1
+
+Thu Oct 11 14:45:51 ICT 2018 - BCA KlikBCA - - No. Order : 418680645513884019
+11 Okt 2018 14:45
+Voucher Blanja Potongan 10.000
+  Rp 100.000 x 1
+Thu Oct 11 15:00:16 ICT 2018 - BCA Virtual Account - - No. Order : 418680700164084019
+11 Okt 2018 15:00
+Voucher Blanja Potongan 10.000
+ 
+Thu Oct 11 15:00:41 ICT 2018 - BCA Klikpay - - No. Order : 418680700414984019
+11 Okt 2018 15:00
+Voucher Blanja Potongan 10.000
+  Rp 100.000 x 1
+Thu Oct 11 15:03:47 ICT 2018 - BCA Virtual Account - - No. Order : 418680703486284019
+11 Okt 2018 15:03
+Voucher Blanja Potongan 10.000
+  Rp 100.000 x 1
+Thu Oct 11 15:29:08 ICT 2018 - ATM Menu Telkom - - No. Order : 418680729093784019
+11 Okt 2018 15:29
+Voucher Blanja Potongan 10.000
+  Rp 100.000 x 1
+Thu Oct 11 15:29:35 ICT 2018 - Debit_online - - No. Order : 418680729364684019
+11 Okt 2018 15:29
+Voucher Blanja Potongan 10.000
+Thu Oct 11 15:30:03 ICT 2018 - Kartu Kredit - - No. Order : 418680730032284019
+11 Okt 2018 15:30
+Voucher Blanja Potongan 10.000
+  Rp 100.000 x 1
+Thu Oct 11 15:30:32 ICT 2018 - Bank Transfer - - No. Order : 418680730323884019
+11 Okt 2018 15:30
+Voucher Blanja Potongan 10.000
+  Rp 100.000 x 1
+Thu Oct 11 15:30:59 ICT 2018 - E-Money Tcash - - No. Order : 418680731002384019
+11 Okt 2018 15:31
+Voucher Blanja Potongan 10.000
+  Rp 100.000 x 1
+Thu Oct 11 15:40:19 ICT 2018 - ATM Menu Telkom - - No. Order : 418680740196484019
+11 Okt 2018 15:40
+Voucher Blanja Potongan 10.000
+  Rp 100.000 x 1
+Fri Oct 12 15:46:07 ICT 2018 - Mandiri Kartu Kredit Cicilan - - No. Order : 418682555168423019
+12 Okt 2018 09:55
+Telkomsel Pulsa Rp 40.000
+Nilai Top Up : 40000, Provider : Simpati 
+Rp 40.000 x 1
+Fri Oct 12 15:48:33 ICT 2018 - Mandiri Kartu Kredit CicilanFri Oct 12 16:11:21 ICT 2018 - Mandiri Kartu Kredit Cicilan
+Fri Oct 12 16:12:55 ICT 2018 - Mandiri Kartu Kredit Cicilan - - No. Order : 418683212562784019
+12 Okt 2018 16:12
+Voucher Blanja Potongan 10.000
+  Rp 100.000 x 5
+ - - No. Order : 418683212562784019
+12 Okt 2018 16:12
+Voucher Blanja Potongan 10.000
+  Rp 100.000 x 5
+ - - No. Order : 418683212562784019
+12 Okt 2018 16:12
+Voucher Blanja Potongan 10.000
+  Rp 100.000 x 5
+ - - No. Order : 418683212562784019
+12 Okt 2018 16:12
+Voucher Blanja Potongan 10.000
+  Rp 100.000 x 5
+ - - No. Order : 418683212562784019
+12 Okt 2018 16:12
+Voucher Blanja Potongan 10.000
+  Rp 100.000 x 5
+Fri Oct 12 16:42:06 ICT 2018 - Indomaret - - No. Order : 418683242061584019
+12 Okt 2018 16:42
+Voucher Blanja Potongan 10.000
+  Rp 100.000 x 1
+Fri Oct 12 16:42:33 ICT 2018 - Alfamart - - No. Order : 418683242347684019
+12 Okt 2018 16:42
+Voucher Blanja Potongan 10.000
+  Rp 100.000 x 1
+Fri Oct 12 16:42:59 ICT 2018 - Pegadaian - - No. Order : 418683243006484019
+12 Okt 2018 16:43
+Voucher Blanja Potongan 10.000
+  Rp 100.000 x 1
+Fri Oct 12 16:43:27 ICT 2018 - Pos Indonesia - - No. Order : 418683243287084019
+12 Okt 2018 16:43
+Voucher Blanja Potongan 10.000
+  Rp 100.000 x 1
+Mon Oct 15 10:47:46 ICT 2018 - Kartu Kredit Cicilan
+Mon Oct 15 10:48:26 ICT 2018 - Kartu Kredit Cicilan - - No. Order : 418689848279584019
+15 Okt 2018 10:48
+Voucher Blanja Potongan 10.000
+  Rp 100.000 x 5

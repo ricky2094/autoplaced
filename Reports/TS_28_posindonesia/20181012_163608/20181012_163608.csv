@@ -1,0 +1,27 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TS_28_posindonesia,IE 10.0,,2018-10-12 16:37:28,2018-10-12 16:37:54,25.895s,FAILED
+,,,,,,
+Test Cases/TC_01_Member_Login/TC_MOBILE_LOGIN,IE 10.0,,2018-10-12 16:37:28,2018-10-12 16:37:37,9.047s,PASSED
+openBrowser,IE 10.0,,2018-10-12 16:37:28,2018-10-12 16:37:34,5.217s,PASSED
+maximizeWindow,IE 10.0,,2018-10-12 16:37:34,2018-10-12 16:37:35,1.150s,PASSED
+setText,IE 10.0,,2018-10-12 16:37:35,2018-10-12 16:37:35,0.190s,PASSED
+setText,IE 10.0,,2018-10-12 16:37:35,2018-10-12 16:37:35,0.135s,PASSED
+delay,IE 10.0,,2018-10-12 16:37:35,2018-10-12 16:37:36,1.022s,PASSED
+click,IE 10.0,,2018-10-12 16:37:36,2018-10-12 16:37:37,1.009s,PASSED
+,,,,,,
+Test Cases/TC_02_PDP/TC_PDP_digital,IE 10.0,,2018-10-12 16:37:37,2018-10-12 16:37:48,10.599s,PASSED
+navigateToUrl,IE 10.0,,2018-10-12 16:37:38,2018-10-12 16:37:44,6.445s,PASSED
+delay,IE 10.0,,2018-10-12 16:37:44,2018-10-12 16:37:46,2.005s,PASSED
+click,IE 10.0,,2018-10-12 16:37:46,2018-10-12 16:37:46,0.120s,PASSED
+click,IE 10.0,,2018-10-12 16:37:46,2018-10-12 16:37:48,1.517s,PASSED
+,,,,,,
+Test Cases/TC_03_Trade/Choose Payment Method/TC_28_Digital_posindonesia,IE 10.0,,2018-10-12 16:37:48,2018-10-12 16:37:48,0.592s,FAILED
+click,IE 10.0,,2018-10-12 16:37:48,2018-10-12 16:37:48,0.372s,FAILED
+,,,,,,
+Test Cases/TC_03_Trade/TC_Click_Button_Order_and_get_order_number,IE 10.0,,2018-10-12 16:37:48,2018-10-12 16:37:54,5.227s,PASSED
+click,IE 10.0,,2018-10-12 16:37:49,2018-10-12 16:37:49,0.109s,PASSED
+navigateToUrl,IE 10.0,,2018-10-12 16:37:49,2018-10-12 16:37:52,2.963s,PASSED
+click,IE 10.0,,2018-10-12 16:37:52,2018-10-12 16:37:52,0.205s,PASSED
+click,IE 10.0,,2018-10-12 16:37:52,2018-10-12 16:37:52,0.545s,PASSED
+"Statement - orderNumber = ""- "" + com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(No_order))",IE 10.0,,2018-10-12 16:37:52,2018-10-12 16:37:54,1.131s,PASSED
+blj.common.report.Autoplaced.AppendToBlanjaAutoplacedReport,IE 10.0,,2018-10-12 16:37:54,2018-10-12 16:37:54,0.024s,PASSED

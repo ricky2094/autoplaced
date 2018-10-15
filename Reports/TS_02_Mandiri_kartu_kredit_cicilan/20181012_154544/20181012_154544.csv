@@ -1,0 +1,30 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TS_02_Mandiri_kartu_kredit_cicilan,IE 10.0,,2018-10-12 15:45:46,2018-10-12 15:46:14,27.145s,PASSED
+,,,,,,
+Test Cases/TC_01_Member_Login/TC_MOBILE_LOGIN,IE 10.0,,2018-10-12 15:45:47,2018-10-12 15:45:57,9.970s,PASSED
+openBrowser,IE 10.0,,2018-10-12 15:45:47,2018-10-12 15:45:53,5.522s,PASSED
+maximizeWindow,IE 10.0,,2018-10-12 15:45:53,2018-10-12 15:45:54,1.285s,PASSED
+setText,IE 10.0,,2018-10-12 15:45:54,2018-10-12 15:45:54,0.364s,PASSED
+setText,IE 10.0,,2018-10-12 15:45:54,2018-10-12 15:45:55,0.260s,PASSED
+delay,IE 10.0,,2018-10-12 15:45:55,2018-10-12 15:45:56,1.028s,PASSED
+click,IE 10.0,,2018-10-12 15:45:56,2018-10-12 15:45:57,1.085s,PASSED
+,,,,,,
+Test Cases/TC_02_PDP/TC_PDP_Digital_5_barang,IE 10.0,,2018-10-12 15:45:57,2018-10-12 15:46:06,9.403s,PASSED
+navigateToUrl,IE 10.0,,2018-10-12 15:45:57,2018-10-12 15:46:02,4.903s,PASSED
+delay,IE 10.0,,2018-10-12 15:46:02,2018-10-12 15:46:04,2.011s,PASSED
+click,IE 10.0,,2018-10-12 15:46:04,2018-10-12 15:46:04,0.246s,PASSED
+setText,IE 10.0,,2018-10-12 15:46:04,2018-10-12 15:46:04,0.160s,PASSED
+click,IE 10.0,,2018-10-12 15:46:04,2018-10-12 15:46:06,1.773s,PASSED
+,,,,,,
+Test Cases/TC_03_Trade/Choose Payment Method/TC_02_Digital_Mandiri_Kartu_kredit_cicilan,IE 10.0,,2018-10-12 15:46:06,2018-10-12 15:46:07,0.795s,PASSED
+click,IE 10.0,,2018-10-12 15:46:07,2018-10-12 15:46:07,0.183s,PASSED
+click,IE 10.0,,2018-10-12 15:46:07,2018-10-12 15:46:07,0.254s,PASSED
+blj.common.report.Autoplaced.AppendToBlanjaAutoplacedReport,IE 10.0,,2018-10-12 15:46:07,2018-10-12 15:46:07,0.045s,PASSED
+,,,,,,
+Test Cases/TC_03_Trade/TC_Click_Button_Order_and_get_order_number,IE 10.0,,2018-10-12 15:46:07,2018-10-12 15:46:13,5.729s,PASSED
+click,IE 10.0,,2018-10-12 15:46:08,2018-10-12 15:46:08,0.203s,PASSED
+navigateToUrl,IE 10.0,,2018-10-12 15:46:08,2018-10-12 15:46:11,2.791s,PASSED
+click,IE 10.0,,2018-10-12 15:46:11,2018-10-12 15:46:11,0.249s,PASSED
+click,IE 10.0,,2018-10-12 15:46:11,2018-10-12 15:46:11,0.687s,PASSED
+"Statement - orderNumber = ""- "" + com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(No_order))",IE 10.0,,2018-10-12 15:46:11,2018-10-12 15:46:13,1.232s,PASSED
+blj.common.report.Autoplaced.AppendToBlanjaAutoplacedReport,IE 10.0,,2018-10-12 15:46:13,2018-10-12 15:46:13,0.018s,PASSED

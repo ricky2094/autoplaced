@@ -1,0 +1,27 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+tes,IE 10.0,,2018-10-11 10:59:32,2018-10-11 11:00:32,1m - 0.452s,FAILED
+,,,,,,
+Test Cases/TC_01_Member_Login/TC_MOBILE_LOGIN,IE 10.0,,2018-10-11 10:59:32,2018-10-11 10:59:41,8.762s,PASSED
+openBrowser,IE 10.0,,2018-10-11 10:59:33,2018-10-11 10:59:38,5.578s,PASSED
+maximizeWindow,IE 10.0,,2018-10-11 10:59:38,2018-10-11 10:59:39,1.180s,PASSED
+setText,IE 10.0,,2018-10-11 10:59:39,2018-10-11 10:59:40,0.243s,PASSED
+setText,IE 10.0,,2018-10-11 10:59:40,2018-10-11 10:59:40,0.185s,PASSED
+click,IE 10.0,,2018-10-11 10:59:40,2018-10-11 10:59:41,1.215s,PASSED
+,,,,,,
+Test Cases/TC_02_PDP/TC_PDP_digital,IE 10.0,,2018-10-11 10:59:41,2018-10-11 10:59:48,7.502s,PASSED
+navigateToUrl,IE 10.0,,2018-10-11 10:59:41,2018-10-11 10:59:45,3.480s,PASSED
+delay,IE 10.0,,2018-10-11 10:59:45,2018-10-11 10:59:47,2.035s,PASSED
+click,IE 10.0,,2018-10-11 10:59:47,2018-10-11 10:59:47,0.166s,PASSED
+click,IE 10.0,,2018-10-11 10:59:47,2018-10-11 10:59:48,1.479s,PASSED
+,,,,,,
+Test Cases/TC_03_Trade/Choose Payment Method/TC_01_Digital_Mandiri_Debit_Online,IE 10.0,,2018-10-11 10:59:49,2018-10-11 10:59:49,0.775s,PASSED
+click,IE 10.0,,2018-10-11 10:59:49,2018-10-11 10:59:49,0.150s,PASSED
+click,IE 10.0,,2018-10-11 10:59:49,2018-10-11 10:59:49,0.327s,PASSED
+blj.common.report.Autoplaced.AppendToBlanjaAutoplacedReport,IE 10.0,,2018-10-11 10:59:49,2018-10-11 10:59:49,0.046s,PASSED
+,,,,,,
+Test Cases/TC_03_Trade/TC_Click_Button_Order_and_get_order_number,IE 10.0,,2018-10-11 10:59:49,2018-10-11 11:00:32,42.943s,FAILED
+click,IE 10.0,,2018-10-11 10:59:50,2018-10-11 10:59:50,0.356s,PASSED
+navigateToUrl,IE 10.0,,2018-10-11 10:59:50,2018-10-11 10:59:53,2.978s,PASSED
+click,IE 10.0,,2018-10-11 10:59:53,2018-10-11 10:59:53,0.181s,PASSED
+click,IE 10.0,,2018-10-11 10:59:53,2018-10-11 10:59:55,1.663s,PASSED
+"Statement - orderNumber = ""- No.order :"" + com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(No_order))",IE 10.0,,2018-10-11 10:59:55,2018-10-11 11:00:32,37.352s,FAILED

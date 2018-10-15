@@ -1,0 +1,27 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+tes,IE 10.0,,2018-10-11 10:46:51,2018-10-11 10:47:44,53.597s,FAILED
+,,,,,,
+Test Cases/TC_01_Member_Login/TC_MOBILE_LOGIN,IE 10.0,,2018-10-11 10:46:51,2018-10-11 10:47:04,12.425s,PASSED
+openBrowser,IE 10.0,,2018-10-11 10:46:52,2018-10-11 10:46:57,5.414s,PASSED
+maximizeWindow,IE 10.0,,2018-10-11 10:46:57,2018-10-11 10:46:58,1.221s,PASSED
+setText,IE 10.0,,2018-10-11 10:46:58,2018-10-11 10:46:59,0.270s,PASSED
+setText,IE 10.0,,2018-10-11 10:46:59,2018-10-11 10:46:59,0.199s,PASSED
+click,IE 10.0,,2018-10-11 10:46:59,2018-10-11 10:47:04,4.871s,PASSED
+,,,,,,
+Test Cases/TC_02_PDP/TC_PDP_digital,IE 10.0,,2018-10-11 10:47:04,2018-10-11 10:47:08,4.671s,PASSED
+navigateToUrl,IE 10.0,,2018-10-11 10:47:04,2018-10-11 10:47:06,2.111s,PASSED
+waitForElementClickable,IE 10.0,,2018-10-11 10:47:06,2018-10-11 10:47:07,0.284s,PASSED
+click,IE 10.0,,2018-10-11 10:47:07,2018-10-11 10:47:07,0.156s,PASSED
+click,IE 10.0,,2018-10-11 10:47:07,2018-10-11 10:47:08,1.623s,PASSED
+,,,,,,
+Test Cases/TC_03_Trade/Choose Payment Method/TC_01_Digital_Mandiri_Debit_Online,IE 10.0,,2018-10-11 10:47:08,2018-10-11 10:47:09,0.817s,PASSED
+click,IE 10.0,,2018-10-11 10:47:09,2018-10-11 10:47:09,0.158s,PASSED
+click,IE 10.0,,2018-10-11 10:47:09,2018-10-11 10:47:09,0.357s,PASSED
+blj.common.report.Autoplaced.AppendToBlanjaAutoplacedReport,IE 10.0,,2018-10-11 10:47:09,2018-10-11 10:47:09,0.038s,PASSED
+,,,,,,
+Test Cases/TC_03_Trade/TC_Click_Button_Order_and_get_order_number,IE 10.0,,2018-10-11 10:47:09,2018-10-11 10:47:44,35.222s,FAILED
+click,IE 10.0,,2018-10-11 10:47:10,2018-10-11 10:47:10,0.174s,PASSED
+navigateToUrl,IE 10.0,,2018-10-11 10:47:10,2018-10-11 10:47:13,2.962s,PASSED
+click,IE 10.0,,2018-10-11 10:47:13,2018-10-11 10:47:13,0.312s,PASSED
+click,IE 10.0,,2018-10-11 10:47:13,2018-10-11 10:47:14,0.691s,PASSED
+"Statement - orderNumber = ""- No.order :"" + com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(No_order))",IE 10.0,,2018-10-11 10:47:14,2018-10-11 10:47:44,30.690s,FAILED

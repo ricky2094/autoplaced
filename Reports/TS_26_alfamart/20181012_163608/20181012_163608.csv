@@ -1,0 +1,27 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TS_26_alfamart,IE 10.0,,2018-10-12 16:36:37,2018-10-12 16:36:59,22.637s,FAILED
+,,,,,,
+Test Cases/TC_01_Member_Login/TC_MOBILE_LOGIN,IE 10.0,,2018-10-12 16:36:37,2018-10-12 16:36:46,8.898s,PASSED
+openBrowser,IE 10.0,,2018-10-12 16:36:38,2018-10-12 16:36:42,4.894s,PASSED
+maximizeWindow,IE 10.0,,2018-10-12 16:36:42,2018-10-12 16:36:44,1.184s,PASSED
+setText,IE 10.0,,2018-10-12 16:36:44,2018-10-12 16:36:44,0.230s,PASSED
+setText,IE 10.0,,2018-10-12 16:36:44,2018-10-12 16:36:44,0.147s,PASSED
+delay,IE 10.0,,2018-10-12 16:36:44,2018-10-12 16:36:45,1.022s,PASSED
+click,IE 10.0,,2018-10-12 16:36:45,2018-10-12 16:36:46,1.069s,PASSED
+,,,,,,
+Test Cases/TC_02_PDP/TC_PDP_digital,IE 10.0,,2018-10-12 16:36:46,2018-10-12 16:36:53,7.428s,PASSED
+navigateToUrl,IE 10.0,,2018-10-12 16:36:47,2018-10-12 16:36:50,3.403s,PASSED
+delay,IE 10.0,,2018-10-12 16:36:50,2018-10-12 16:36:52,2.003s,PASSED
+click,IE 10.0,,2018-10-12 16:36:52,2018-10-12 16:36:52,0.104s,PASSED
+click,IE 10.0,,2018-10-12 16:36:52,2018-10-12 16:36:53,1.407s,PASSED
+,,,,,,
+Test Cases/TC_03_Trade/Choose Payment Method/TC_26_Digital_alfamart,IE 10.0,,2018-10-12 16:36:54,2018-10-12 16:36:54,0.649s,FAILED
+click,IE 10.0,,2018-10-12 16:36:54,2018-10-12 16:36:54,0.387s,FAILED
+,,,,,,
+Test Cases/TC_03_Trade/TC_Click_Button_Order_and_get_order_number,IE 10.0,,2018-10-12 16:36:54,2018-10-12 16:36:59,5.224s,PASSED
+click,IE 10.0,,2018-10-12 16:36:54,2018-10-12 16:36:55,0.139s,PASSED
+navigateToUrl,IE 10.0,,2018-10-12 16:36:55,2018-10-12 16:36:57,2.715s,PASSED
+click,IE 10.0,,2018-10-12 16:36:57,2018-10-12 16:36:57,0.132s,PASSED
+click,IE 10.0,,2018-10-12 16:36:57,2018-10-12 16:36:58,0.801s,PASSED
+"Statement - orderNumber = ""- "" + com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(No_order))",IE 10.0,,2018-10-12 16:36:58,2018-10-12 16:36:59,1.140s,PASSED
+blj.common.report.Autoplaced.AppendToBlanjaAutoplacedReport,IE 10.0,,2018-10-12 16:36:59,2018-10-12 16:36:59,0.022s,PASSED

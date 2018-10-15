@@ -1,0 +1,25 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+tes,IE 10.0,,2018-10-11 10:36:37,2018-10-11 10:37:38,1m - 0.882s,FAILED
+,,,,,,
+Test Cases/TC_01_Member_Login/TC_MOBILE_LOGIN,IE 10.0,,2018-10-11 10:36:38,2018-10-11 10:36:50,12.683s,PASSED
+openBrowser,IE 10.0,,2018-10-11 10:36:38,2018-10-11 10:36:44,6.010s,PASSED
+maximizeWindow,IE 10.0,,2018-10-11 10:36:44,2018-10-11 10:36:45,1.195s,PASSED
+setText,IE 10.0,,2018-10-11 10:36:45,2018-10-11 10:36:45,0.262s,PASSED
+setText,IE 10.0,,2018-10-11 10:36:45,2018-10-11 10:36:46,0.198s,PASSED
+click,IE 10.0,,2018-10-11 10:36:46,2018-10-11 10:36:50,4.656s,PASSED
+,,,,,,
+Test Cases/TC_02_PDP/TC_PDP_digital,IE 10.0,,2018-10-11 10:36:50,2018-10-11 10:36:58,7.838s,PASSED
+navigateToUrl,IE 10.0,,2018-10-11 10:36:51,2018-10-11 10:36:55,4.487s,PASSED
+waitForElementClickable,IE 10.0,,2018-10-11 10:36:55,2018-10-11 10:36:55,0.128s,PASSED
+click,IE 10.0,,2018-10-11 10:36:55,2018-10-11 10:36:55,0.122s,PASSED
+click,IE 10.0,,2018-10-11 10:36:55,2018-10-11 10:36:58,2.772s,PASSED
+,,,,,,
+Test Cases/TC_03_Trade/Choose Payment Method/TC_01_Digital_Mandiri_Debit_Online,IE 10.0,,2018-10-11 10:36:58,2018-10-11 10:36:59,0.747s,PASSED
+click,IE 10.0,,2018-10-11 10:36:58,2018-10-11 10:36:59,0.157s,PASSED
+click,IE 10.0,,2018-10-11 10:36:59,2018-10-11 10:36:59,0.295s,PASSED
+blj.common.report.Autoplaced.AppendToBlanjaAutoplacedReport,IE 10.0,,2018-10-11 10:36:59,2018-10-11 10:36:59,0.050s,PASSED
+,,,,,,
+Test Cases/TC_03_Trade/TC_Click_Button_Order_and_get_order_number,IE 10.0,,2018-10-11 10:36:59,2018-10-11 10:37:38,39.123s,FAILED
+click,IE 10.0,,2018-10-11 10:36:59,2018-10-11 10:37:00,0.225s,PASSED
+navigateToUrl,IE 10.0,,2018-10-11 10:37:00,2018-10-11 10:37:00,0.651s,PASSED
+"Statement - orderNumber = ""- No.order :"" + com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(No_order))",IE 10.0,,2018-10-11 10:37:00,2018-10-11 10:37:38,37.716s,FAILED
